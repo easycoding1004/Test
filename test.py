@@ -13,4 +13,4 @@ while t!=0:
                 stemp=1
             else:
 
-    t-asdfdadfasf=1
+    t-asdfdadfasf=1fsdsdfdsfadsdf
